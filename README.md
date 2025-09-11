@@ -9,8 +9,8 @@ You can now use the [megadesk companion](https://www.tindie.com/products/gcormie
 
 <img  src="PCB%20and%20Housing.png" width=25%/> <img  src="render.png" width=30%/>
 
-# For sale on Tindie - Plug and Play!
-I've setup a store on Tindie for those who wish to order a ready to go, plug and play version. It comes with a fully assembled PCB as well as the cable you will need to connect it. No soldering or assembly required! <a  href="https://www.tindie.com/products/gcormier/megadesk/">https://www.tindie.com/products/gcormier/megadesk/</a>
+# For sale - Plug and Play!
+I have migrated off Tindie to facilitate shipping to the USA, and now sell the megadesk on [my own store](https://tinkertown.ca/).
 
 ## Features
 
